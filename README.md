@@ -1,5 +1,3 @@
-# pbo-post-test-2
-project ini adalah project untuk tugas posttest 2 pbo.
 
 Nama		: Adli Imam Suryadin
 NIM		: 2209116096

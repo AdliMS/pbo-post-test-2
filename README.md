@@ -39,7 +39,7 @@ Membuat method untuk melakukan serangan pukulan kepada musuh. Method ini jika di
 ). Lalu kita memanggil method set_health() di dalamnya agar health musuh tidak sampai bernilai minus dengan mengubah nilainya ke 0.
 
  
-**## 2) Enemy.java**
+## 2) Enemy.java
 
 Untuk file Enemy. java, atribut - atribut dan method - methodnya memiliki isi dan perilaku yang sama dengan yang ada di file Player.java sebelumnya, kecuali : 
 
